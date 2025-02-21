@@ -1,0 +1,2025 @@
+{
+	"businessName": "Experian",
+	"city": "Costa Mesa",
+	"postalCode": null,
+	"state": "CA",
+	"dunsNumber": "958051591",
+	"bin": "798304266",
+	"place_id": "ChIJeWB_8d7e3IARQy60pHa7kSQ",
+	"bizLegalName": "Experian",
+	"peerScore" :  true,
+	"assessment": {
+		"id": "clgv973do0006zc141zmcp7pe",
+		"createdAt": "2023-04-24T19:51:02.000Z",
+		"updatedAt": "2023-04-24T19:51:02.365Z",
+		"assessmentProvider": "DnB",
+		"businessName": "Experian Corporation",
+		"dunsNumber": "958051591",
+		"businessStartDate": "1996",
+		"country": "US",
+		"state": "CA",
+		"city": "Santa Ana",
+		"postalCode": "92704",
+		"phone": "7148307000",
+		"email": "",
+		"addressLine1": "475 Anton Blvd",
+		"addressLine2": "",
+		"incorporatedDate": "",
+		"lineOfBusiness": "Credit Bureaus, Credit Bureaus",
+		"legalStructure": "Corporation",
+		"businessDBA": "",
+		"isHeadquarters": false,
+		"bankruptcyNo": "0",
+		"bankruptcyDate": "",
+		"liensNo": "0",
+		"liensAmount": "0",
+		"liensDate": "",
+		"liensCurrency": "",
+		"judgmentsNo": "0",
+		"judgmentsAmount": "0",
+		"judgmentsCurrency": "",
+		"judgmentsDate": "",
+		"owedAmount": "2500",
+		"highestCreditAmount": "5000",
+		"daysBeyondPayments": "0",
+		"paymentBehaviorDays": "0 days Prompt",
+		"tradingExperienceCount": "8",
+		"tradingExperienceTotal": "5800",
+		"naicsCodes": "561450, 561450",
+		"naicsFullDescripion": "[{\"code\":\"561450\",\"description\":\"Credit Bureaus\"},{\"code\":\"561450\",\"description\":\"Credit Bureaus\"}]",
+		"registrationStatus": "Active",
+		"totalPastDueBalanceOwned": "0",
+		"totalPastDueTradeExperience": "0",
+		"totalSatisfactoryTradeExperienceCount": "2",
+		"totalSatisfactoryTradeExperienceAmount": "5050",
+		"totalSlowTradeExperience": "0",
+		"totalSlowOrNegativePayments": "0",
+		"slowOrNegativePaymentPercentage": "",
+		"paydexScore": "80",
+		"threeMonthsPriorPaydexScore": "80",
+		"paydexAvgPaymentDays": "",
+		"annualSales": "10000000000",
+		"historyRating": "Clear",
+		"viabilityRating": "21BZ",
+		"maximumRecommendedCredit": "131000",
+		"overallRisk": "Low-Moderate",
+		"standardRating": "--",
+		"failureRawScore": "1507",
+		"failureScoreClass": "3",
+		"failureScorePercentile": "67",
+		"failureProbability": "Moderate risk of severe financial stress, such as a bankruptcy, over the next 12 months.",
+		"delinquencyRawScore": "635",
+		"delinquencyScoreClass": "1",
+		"delinquencyScorePercentile": "70",
+		"delinquencyProbability": "Moderate risk of severe payment delinquency over next 12 months.",
+		"fullResponse": "{\"transactionDetail\":{\"transactionID\":\"rrt-0c925ed1ed2cfe456-a-wo-17008-7442322-25_3249\",\"transactionTimestamp\":\"2023-04-24T19:51:02.303Z\",\"inLanguage\":\"en-US\",\"productID\":\"cmptcs\",\"productVersion\":\"1\"},\"inquiryDetail\":{\"productVersion\":\"v1\",\"productID\":\"cmptcs\",\"duns\":\"958051591\"},\"organization\":{\"duns\":\"958051591\",\"dunsControlStatus\":{\"operatingStatus\":{\"description\":\"Active\",\"dnbCode\":9074},\"isMarketable\":true,\"isMailUndeliverable\":false,\"isTelephoneDisconnected\":false,\"isDelisted\":false,\"subjectHandlingDetails\":[],\"fullReportDate\":\"2019-11-30\"},\"primaryName\":\"Experian Corporation\",\"registeredName\":null,\"tradeStyleNames\":[],\"doNotConfuseNames\":[{\"name\":\"Experian Information Solutions, Inc\"}],\"defaultCurrency\":\"USD\",\"telephone\":[{\"telephoneNumber\":\"7148307000\",\"isdCode\":\"1\",\"isUnreachable\":false}],\"primaryAddress\":{\"language\":{},\"addressCountry\":{\"name\":\"United States\",\"isoAlpha2Code\":\"US\"},\"continentalRegion\":{\"name\":\"North America\"},\"addressLocality\":{\"name\":\"Santa Ana\"},\"minorTownName\":null,\"addressRegion\":{\"name\":\"California\",\"abbreviatedName\":\"CA\"},\"addressCounty\":{\"name\":\"Orange\"},\"postalCode\":\"92704\",\"postalCodePosition\":{},\"streetNumber\":null,\"streetName\":null,\"streetAddress\":{\"line1\":\"475 Anton Blvd\",\"line2\":null},\"postOfficeBox\":{},\"latitude\":33.69001,\"longitude\":-117.873968,\"geographicalPrecision\":{\"description\":\"Street Address Centroid\",\"dnbCode\":30257},\"isRegisteredAddress\":false,\"locationOwnership\":{\"description\":\"Leases\",\"dnbCode\":1130},\"congressionalDistricts\":[{\"district\":\"48\"}],\"isResidentialAddress\":null},\"stockExchanges\":[],\"businessTrading\":[{\"summaryDate\":\"2023-04-01\",\"currency\":\"USD\",\"summary\":[{\"dataCoverage\":{\"description\":\"24 Months\",\"dnbCode\":24186},\"paydexScore\":80,\"threeMonthsPriorPaydexScore\":80,\"paymentBehaviorDays\":0,\"paymentBehaviorResult\":{\"description\":\"Prompt\",\"dnbCode\":1232},\"totalExperiencesCount\":8,\"totalExperiencesAmount\":5800,\"averageHighCreditAmount\":2525,\"maximumHighCreditAmount\":5000,\"maximumOwedAmount\":2500,\"maximumPastDueAmount\":0,\"totalPastDueAmount\":0,\"totalPastDueExperiencesCount\":null,\"negativeExperiencesAmount\":null,\"negativePaymentsCount\":null,\"satisfactoryExperiencesAmount\":5050,\"satisfactoryExperiencesCount\":2,\"slowExperiencesAmount\":null,\"slowExperiencesCount\":null,\"slowOrNegativePaymentsCount\":null,\"slowOrNegativePaymentsPercentage\":null}]}],\"registrationNumbers\":[],\"industryCodes\":[{\"code\":\"561450\",\"description\":\"Credit Bureaus\",\"typeDescription\":\"North American Industry Classification System 2022\",\"typeDnBCode\":37788,\"priority\":1},{\"code\":\"561450\",\"description\":\"Credit Bureaus\",\"typeDescription\":\"North American Industry Classification System 2022\",\"typeDnBCode\":37788,\"priority\":2},{\"code\":\"73239902\",\"description\":\"Consumer credit reporting bureau\",\"typeDescription\":\"D&B Standard Industry Code\",\"typeDnBCode\":3599,\"priority\":1},{\"code\":\"73239901\",\"description\":\"Commercial (mercantile) credit reporting bureau\",\"typeDescription\":\"D&B Standard Industry Code\",\"typeDnBCode\":3599,\"priority\":2},{\"code\":\"8291\",\"description\":\"Activities of collection agencies and credit bureaus\",\"typeDescription\":\"NACE Revision 2\",\"typeDnBCode\":29104,\"priority\":1},{\"code\":\"7323\",\"description\":\"Credit reporting services\",\"typeDescription\":\"US Standard Industry Code 1987 - 4 digit\",\"typeDnBCode\":399,\"priority\":1},{\"code\":\"7323\",\"description\":\"Credit reporting services\",\"typeDescription\":\"US Standard Industry Code 1987 - 4 digit\",\"typeDnBCode\":399,\"priority\":2},{\"code\":\"1714\",\"description\":\"Credit Reporting Services\",\"typeDescription\":\"D&B Hoovers Industry Code\",\"typeDnBCode\":25838,\"priority\":1},{\"code\":\"I\",\"description\":\"Services\",\"typeDescription\":\"D&B Standard Major Industry Code\",\"typeDnBCode\":24657,\"priority\":1}],\"startDate\":\"1996\",\"incorporatedDate\":null,\"legalForm\":{\"description\":\"Corporation\",\"dnbCode\":31217,\"startDate\":null,\"registrationLocation\":{}},\"controlOwnershipDate\":\"1996-11\",\"controlOwnershipType\":{},\"charterType\":{},\"numberOfEmployees\":[{\"value\":109,\"minimumValue\":null,\"maximumValue\":null,\"informationScopeDescription\":\"Consolidated\",\"informationScopeDnBCode\":9067,\"reliabilityDescription\":\"Modelled\",\"reliabilityDnBCode\":9094},{\"value\":109,\"minimumValue\":null,\"maximumValue\":null,\"informationScopeDescription\":\"Individual\",\"informationScopeDnBCode\":9066,\"reliabilityDescription\":\"Modelled\",\"reliabilityDnBCode\":9094}],\"latestFinancialStatementDate\":null,\"latestFinancials\":{},\"mostSeniorPrincipals\":[{\"subjectType\":\"Individuals\",\"birthDate\":null,\"givenName\":\"Rick\",\"middleName\":null,\"familyName\":\"Cortese\",\"fullName\":\"Rick Cortese\",\"namePrefix\":null,\"nameSuffix\":null,\"identificationNumber\":null,\"nationality\":{},\"gender\":{},\"primaryAddress\":{},\"responsibleAreas\":{},\"jobTitles\":[{\"title\":\"Chief Executive Officer\"}],\"managementResponsibilities\":[{\"description\":\"Chief Executive Officer\",\"mrcCode\":\"A1A7\"}]}],\"isStandalone\":false,\"corporateLinkage\":{\"familytreeRolesPlayed\":[{\"description\":\"Subsidiary\",\"dnbCode\":9159},{\"description\":\"Domestic Ultimate\",\"dnbCode\":12774}],\"globalUltimate\":{\"duns\":\"365214688\",\"primaryName\":\"EXPERIAN PLC\",\"primaryAddress\":{\"addressCountry\":{\"name\":\"United Kingdom\",\"isoAlpha2Code\":\"GB\"}}},\"domesticUltimate\":{\"duns\":\"958051591\",\"primaryName\":\"Experian Corporation\",\"primaryAddress\":{\"addressCountry\":{\"name\":\"United States\",\"isoAlpha2Code\":\"US\"}}},\"parent\":{\"duns\":\"536531478\",\"primaryName\":\"EXPERIAN NA UNLIMITED\",\"primaryAddress\":{\"addressCountry\":{\"name\":\"United Kingdom\",\"isoAlpha2Code\":\"GB\"}}},\"headQuarter\":{}},\"legalEvents\":{\"hasLegalEvents\":false,\"hasOpenLegalEvents\":false,\"hasSuits\":false,\"hasOpenSuits\":false,\"hasLiens\":false,\"hasOpenLiens\":false,\"hasBankruptcy\":false,\"hasOpenBankruptcy\":false,\"hasJudgments\":false,\"hasOpenJudgments\":false,\"hasFinancialEmbarrassment\":false,\"hasOpenFinancialEmbarrassment\":false,\"hasCriminalProceedings\":false,\"hasOpenCriminalProceedings\":false,\"hasClaims\":false,\"hasOpenClaims\":false,\"hasDebarments\":false,\"hasOpenDebarments\":false,\"hasInsolvency\":null,\"hasLiquidation\":false,\"hasSuspensionOfPayments\":null,\"hasOtherLegalEvents\":false,\"judgments\":{\"mostRecentFilingDate\":null,\"periodSummary\":{\"12Months\":{\"totalCount\":0,\"totalAmount\":{}}}},\"bankruptcy\":{\"mostRecentFilingDate\":null,\"periodSummary\":{\"12Months\":{\"totalCount\":0,\"totalAmount\":{}}}},\"suits\":{\"mostRecentFilingDate\":null,\"periodSummary\":{\"12Months\":{\"totalCount\":0,\"totalAmount\":{}}}},\"liens\":{\"mostRecentFilingDate\":null,\"periodSummary\":{\"12Months\":{\"totalCount\":0,\"totalAmount\":{}}}},\"debarments\":{},\"insolvency\":{}},\"financingEvents\":{\"hasFinancingEvents\":true,\"hasOpenFinancingEvents\":true,\"hasSecuredFilings\":true,\"hasOpenSecuredFilings\":true,\"hasLetterOfLiability\":null,\"hasOpenLetterOfLiability\":null,\"financingStatementFilings\":{\"mostRecentFilingDate\":\"2017-07-21\",\"periodSummary\":{\"12Months\":{\"totalCount\":0,\"totalAmount\":{\"value\":null,\"currency\":\"USD\"}}}},\"mortgagesAndCharges\":{}},\"significantEvents\":{\"hasSignificantEvents\":false,\"hasOperationalEvents\":false,\"hasDisastrousEvents\":false},\"dnbAssessment\":{\"standardRating\":{\"scoreDate\":\"2010-12-03\",\"rating\":\"--\",\"riskSegment\":null,\"financialStrength\":\"--\",\"ratingReason\":[],\"ratingOverrideReasons\":[]},\"creditLimitRecommendation\":{\"assessmentDate\":null,\"maximumRecommendedLimit\":{\"value\":131000,\"currency\":\"USD\"},\"averageRecommendedLimit\":{},\"comment\":{\"description\":\"The recommended limit is based on a moderately low probability of severe delinquency.\",\"dnbCode\":34904}},\"delinquencyScore\":{\"scoreModel\":{\"description\":\"U.S. Delinquency Predictor\",\"dnbCode\":26183},\"scoreDate\":\"2023-03-25\",\"rawScore\":529,\"classScore\":3,\"classScoreDescription\":\"Moderate risk of severe payment delinquency over next 12 months.\",\"nationalPercentile\":70,\"riskIncidencePercentage\":3.67,\"scoreCommentary\":[{\"description\":\"Recent high balance past due\",\"dnbCode\":26082},{\"description\":\"Higher risk industry based on delinquency rates for this industry\",\"dnbCode\":26170}],\"scoreOverrideReasons\":[]},\"failureScore\":{\"scoreModel\":{\"description\":\"US Failure Score Model 7.1\",\"dnbCode\":19884},\"scoreDate\":\"2021-05-17\",\"rawScore\":1507,\"classScore\":3,\"classScoreDescription\":\"Moderate risk of severe financial stress, such as a bankruptcy, over the next 12 months.\",\"nationalPercentile\":67,\"riskIncidencePercentage\":0.15,\"scoreCommentary\":[{\"description\":\"Low proportion of satisfactory payment experiences to total payment experiences\",\"dnbCode\":19815},{\"description\":\"UCC Filings reported\",\"dnbCode\":19817}],\"scoreOverrideReasons\":[]},\"viabilityRating\":{\"rating\":\"21BZ\",\"ratingDate\":\"2023-01-24\",\"viabilityScore\":{\"classScore\":2,\"riskLevel\":{\"description\":\"Low\",\"dnbCode\":13693},\"badRate\":2,\"overallBadRate\":14,\"classScoreIncidencePercentage\":4},\"portfolioComparisonScore\":{\"classScore\":1,\"riskLevel\":{\"description\":\"Low\",\"dnbCode\":13693},\"badRate\":2,\"classScoreIncidencePercentage\":11,\"modelSegment\":{\"description\":\"Established Trade Payments\",\"dnbCode\":26235},\"segmentBadRate\":5},\"dataDepth\":{\"dataDepthIndicator\":\"B\",\"assessment\":[\"Rich Firmographics,Extensive Commercial Trading Activity,Basic Financial Attributes\"]},\"organizationProfile\":{\"organizationProfileRating\":\"Z\",\"isFinancialDataAvailable\":null,\"tradeDataAvailability\":{},\"organizationSize\":{},\"yearsInBusiness\":{}}},\"historyRating\":{\"description\":\"Clear\",\"dnbCode\":9078},\"hasSevereNegativeEvents\":false,\"overallRiskAssessment\":{\"description\":\"Low-Moderate\",\"dnbCode\":34833}}}}",
+		"isDBRecord": true,
+		"mostSeniorPrincipals": [
+			{
+				"gender": {},
+				"fullName": "Rick Cortese",
+				"birthDate": null,
+				"givenName": "Rick",
+				"jobTitles": [
+					{
+						"title": "Chief Executive Officer"
+					}
+				],
+				"familyName": "Cortese",
+				"middleName": null,
+				"namePrefix": null,
+				"nameSuffix": null,
+				"nationality": {},
+				"subjectType": "Individuals",
+				"primaryAddress": {},
+				"responsibleAreas": {},
+				"identificationNumber": null,
+				"managementResponsibilities": [
+					{
+						"mrcCode": "A1A7",
+						"description": "Chief Executive Officer"
+					}
+				]
+			}
+		]
+	},
+	"experianBizJson": {
+		"stocks": {},
+		"sicCodes": [
+			{
+				"code": "7323",
+				"definition": "CREDIT REPORTING SERVICES"
+			},
+			{
+				"code": "8741",
+				"definition": "MANAGEMENT SERVICES"
+			},
+			{
+				"code": "7389",
+				"definition": "BUSINESS SERVICES, NEC"
+			}
+		],
+		"inquiries": [
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 0,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "BANK"
+			},
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 1,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "BROKER"
+			},
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 0,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "ELEC SUPLR"
+			},
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 0,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "GENERAL"
+			},
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 0,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "PERSCOMPTR"
+			},
+			{
+				"inquiryCount": [
+					{
+						"year": 2023,
+						"count": 1,
+						"month": 1
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 12
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 11
+					},
+					{
+						"year": 2022,
+						"count": 2,
+						"month": 10
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 9
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 8
+					},
+					{
+						"year": 2022,
+						"count": 2,
+						"month": 7
+					},
+					{
+						"year": 2022,
+						"count": 0,
+						"month": 6
+					},
+					{
+						"year": 2022,
+						"count": 1,
+						"month": 5
+					}
+				],
+				"inquiryBusinessCategory": "TOTALS"
+			}
+		],
+		"naicsCodes": [
+			{
+				"code": "561450",
+				"definition": "Credit Bureaus"
+			},
+			{
+				"code": "236110",
+				"definition": "Residential Building Construction"
+			},
+			{
+				"code": "541990",
+				"definition": "All Other Professional, Scientific, and Technical Services"
+			}
+		],
+		"bondDetails": [],
+		"competitors": [],
+		"fortune1000": null,
+		"uccCoDebtors": [],
+		"businessFacts": {
+			"businessType": "Corporation",
+			"employeeSize": null,
+			"salesRevenue": "5000000000000",
+			"salesSizeCode": null,
+			"publicIndicator": false,
+			"yearsInBusiness": null,
+			"employeeSizeCode": null,
+			"nonProfitIndicator": false,
+			"dateOfIncorporation": "2004-11-16",
+			"fileEstablishedDate": "2001-07-01",
+			"fileEstablishedFlag": {},
+			"locationEmployeeSize": null,
+			"locationSalesRevenue": null,
+			"stateOfIncorporation": "MD",
+			"locationEmployeeSizeCode": null,
+			"yearsInBusinessIndicator": {
+				"code": "A",
+				"definition": "Under 1 Year"
+			}
+		},
+		"paymentTotals": {
+			"tradelines": {
+				"dbt": null,
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 0,
+				"numberOfLines": 11,
+				"currentPercentage": 100,
+				"totalAccountBalance": {
+					"amount": 1643100
+				},
+				"totalHighCreditAmount": {
+					"amount": 4950100
+				}
+			},
+			"combinedTradelines": {
+				"dbt": 1,
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 1,
+				"numberOfLines": 6,
+				"currentPercentage": 99,
+				"totalAccountBalance": {
+					"amount": 310400
+				},
+				"totalHighCreditAmount": {
+					"amount": 986200
+				}
+			},
+			"additionalTradelines": {
+				"dbt": null,
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 0,
+				"numberOfLines": 5,
+				"currentPercentage": 100,
+				"totalAccountBalance": {
+					"amount": 1332700
+				},
+				"totalHighCreditAmount": {
+					"amount": 3963900
+				}
+			},
+			"newlyReportedTradelines": {
+				"dbt": 0,
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 0,
+				"numberOfLines": null,
+				"currentPercentage": null,
+				"totalAccountBalance": {
+					"amount": null
+				},
+				"totalHighCreditAmount": {
+					"amount": null
+				}
+			},
+			"continuouslyReportedTradelines": {
+				"dbt": 1,
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 1,
+				"numberOfLines": 6,
+				"currentPercentage": 99,
+				"totalAccountBalance": {
+					"amount": 310400
+				},
+				"totalHighCreditAmount": {
+					"amount": 986200
+				}
+			}
+		},
+		"taxLienDetail": [
+			{
+				"owner": "STATE OF UTAH",
+				"dateFiled": "2022-12-05",
+				"legalType": "STATE TAX",
+				"legalAction": "LIEN",
+				"documentNumber": "186906089",
+				"filingLocation": "SALT LAKE DISTRICT COURT",
+				"liabilityAmount": 146436,
+				"taxLienDescription": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": "STATE OF WASHINGTON",
+				"dateFiled": "2021-12-10",
+				"legalType": "STATE TAX",
+				"legalAction": "LIEN",
+				"documentNumber": "1720104334",
+				"filingLocation": "THURSTON SUPERIOR COURT - OLYMPIA",
+				"liabilityAmount": 4666,
+				"taxLienDescription": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": "STATE OF INDIANA",
+				"dateFiled": "2021-05-24",
+				"legalType": "STATE TAX",
+				"legalAction": "RELEASED",
+				"documentNumber": "11109720",
+				"filingLocation": "MARION CNTY CIRCUIT/SUPERIOR/MUNICIPAL C",
+				"liabilityAmount": 74,
+				"taxLienDescription": null,
+				"customerDisputeIndicator": false
+			}
+		],
+		"businessHeader": {
+			"bin": "798304266",
+			"phone": "+17148307000",
+			"taxId": null,
+			"address": {
+				"zip": "92626",
+				"city": "COSTA MESA",
+				"state": "CA",
+				"street": "475 ANTON BLVD",
+				"zipExtension": "7037"
+			},
+			"dbaNames": [],
+			"websiteUrl": "experian.com",
+			"businessName": "EXPERIAN SERVICES CORP",
+			"branchLocation": {},
+			"foreignCountry": false,
+			"legalBusinessName": "EXPERIAN SERVICES CORP.",
+			"matchingBranchAddress": {},
+			"customerDisputeIndicator": false,
+			"corporateLinkageIndicator": true
+		},
+		"judgmentDetail": [
+			{
+				"owner": null,
+				"dateFiled": "2020-07-19",
+				"legalType": "JUDGMENT",
+				"legalAction": "SATISFIED",
+				"plaintiffName": "LOIS A LITTMAN",
+				"documentNumber": "15S02578",
+				"filingLocation": "INGLEWOOD MUNICIPAL COURT",
+				"liabilityAmount": 2500,
+				"customerDisputeIndicator": false
+			}
+		],
+		"licenseDetails": [],
+		"bankruptcyDetail": [],
+		"corporateLinkage": [
+			{
+				"bin": "000028714",
+				"type": "Ultimate Parent",
+				"address": {
+					"city": "DUBLIN",
+					"state": "  ",
+					"street": "NEWENHAM HOUSE NORTHERN CROSS MALAHIDE ROAD",
+					"country": "IRL"
+				},
+				"businessName": "EXPERIAN PLC",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			},
+			{
+				"bin": "930041814",
+				"type": "Parent/Headquarters",
+				"address": {
+					"city": "COSTA MESA",
+					"state": "CA",
+					"street": "475 ANTON BLVD",
+					"country": "USA"
+				},
+				"businessName": "EXPERIAN HOLDINGS INC",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			},
+			{
+				"bin": "404844151",
+				"type": "Branch",
+				"address": {
+					"city": "FARMINGTON HILLS",
+					"state": "MI",
+					"street": "30700 NORTHWESTERN HWY",
+					"country": "USA"
+				},
+				"businessName": "EXPERIAN SERVICES CORP",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			},
+			{
+				"bin": "408573337",
+				"type": "Branch",
+				"address": {
+					"city": "ALLEN",
+					"state": "TX",
+					"street": "1314 THOREAU LN",
+					"country": "USA"
+				},
+				"businessName": "EXPERIAN SERVICES CORP",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			},
+			{
+				"bin": "435696710",
+				"type": "Branch",
+				"address": {
+					"city": "PORTLAND",
+					"state": "OR",
+					"street": "8130 SW BEAVERTON HILLSDALE HWY",
+					"country": "USA"
+				},
+				"businessName": "EXPERIAN SERVICES CORP",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			},
+			{
+				"bin": "771396831",
+				"type": "Branch",
+				"address": {
+					"city": "ALLEN",
+					"state": "TX",
+					"street": "701 EXPERIAN PKWY",
+					"country": "USA"
+				},
+				"businessName": "EXPERIAN SERVICES CORP",
+				"returnLimitExceeded": false,
+				"matchingBusinessIndicator": false
+			}
+		],
+		"executiveSummary": {
+			"businessDbt": {
+				"code": 1,
+				"definition": "Good Risk. 80% of businesses fall into this range"
+			},
+			"commonTerms": {
+				"first": "CONTRCT",
+				"third": "NET 30",
+				"second": "REVOLVE"
+			},
+			"industryDbt": 4,
+			"predictedDbt": 12,
+			"allIndustryDbt": 3,
+			"predictedDbtDate": "2023-03-06",
+			"industryDescription": "CREDIT RPT & COLLECT",
+			"paymentTrendIndicator": {
+				"code": "L",
+				"definition": "Increasingly late"
+			},
+			"highCreditAmountExtended": 802200,
+			"industryPaymentComparison": {
+				"code": "F",
+				"definition": "Pays sooner than 50%"
+			},
+			"lowestTotalAccountBalance": {
+				"amount": 340000,
+				"modifier": null
+			},
+			"currentTotalAccountBalance": {
+				"amount": 404700,
+				"modifier": null
+			},
+			"highestTotalAccountBalance": {
+				"amount": 817500,
+				"modifier": null
+			},
+			"medianCreditAmountExtended": 3800
+		},
+		"insuranceDetails": [],
+		"scoreInformation": {
+			"fsrScore": {
+				"score": 56,
+				"modelCode": "000223",
+				"riskClass": {
+					"code": 1,
+					"definition": "LOW RISK"
+				},
+				"modelTitle": "FINANCIAL STABILITY RISK",
+				"probability": null,
+				"profileNumber": "I801146383",
+				"limitedProfile": false,
+				"percentileRanking": 71,
+				"publiclyHeldCompany": false,
+				"customerDisputeIndicator": false
+			},
+			"fsrScoreTrends": [
+				{
+					"score": 71,
+					"quarter": "JAN-MAR",
+					"industryScore": null
+				},
+				{
+					"score": 69,
+					"quarter": "OCT-DEC",
+					"industryScore": null
+				},
+				{
+					"score": 85,
+					"quarter": "JUL-SEP",
+					"industryScore": null
+				},
+				{
+					"score": 74,
+					"quarter": "APR-JUN",
+					"industryScore": null
+				}
+			],
+			"commercialScore": {
+				"score": 70,
+				"modelCode": "000224",
+				"riskClass": {
+					"code": 4,
+					"definition": "MEDIUM TO HIGH RISK"
+				},
+				"modelTitle": "INTELLISCORE PLUS V2",
+				"probability": null,
+				"profileNumber": "I801146383",
+				"limitedProfile": false,
+				"customModelCode": "03",
+				"percentileRanking": 16,
+				"publiclyHeldCompany": false,
+				"highCreditLimitAmount": null,
+				"customerDisputeIndicator": false,
+				"recommendedCreditLimitAmount": 264100
+			},
+			"fsrScoreFactors": [
+				{
+					"code": "004",
+					"definition": "RISK ASSOCIATED WITH THE COMPANY'S INDUSTRY SECTOR"
+				},
+				{
+					"code": "005",
+					"definition": "NUMBER OF COMMERCIAL DEROGATORY PUBLIC RECORDS"
+				},
+				{
+					"code": "002",
+					"definition": "RISK ASSOCIATED WITH THE BUSINESS TYPE"
+				},
+				{
+					"code": "016",
+					"definition": "PERCENT OF COMMERCIAL ACCOUNTS DELINQUENT"
+				}
+			],
+			"commercialScoreTrends": [
+				{
+					"score": 13,
+					"quarter": "JAN-MAR",
+					"industryScore": null
+				},
+				{
+					"score": 6,
+					"quarter": "OCT-DEC",
+					"industryScore": null
+				},
+				{
+					"score": 10,
+					"quarter": "JUL-SEP",
+					"industryScore": null
+				},
+				{
+					"score": 7,
+					"quarter": "APR-JUN",
+					"industryScore": null
+				}
+			],
+			"commercialScoreFactors": [
+				{
+					"code": "029",
+					"definition": "AVERAGE BALANCE OF RECENTLY DELINQUENT COMMERCIAL ACCOUNTS"
+				},
+				{
+					"code": "055",
+					"definition": "NUMBER OF COMMERCIAL ACCOUNTS WITH NET 1-30 DAYS TERM"
+				},
+				{
+					"code": "041",
+					"definition": "BALANCE OF DELINQUENT COMMERCIAL ACCOUNTS"
+				},
+				{
+					"code": "002",
+					"definition": "NUMBER OF RECENTLY ACTIVE COMMERCIAL ACCOUNTS"
+				}
+			]
+		},
+		"uccFilingsDetail": [
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2022-07-28",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": "FIRST WESTERN BANK & TRUST MN EDEN PRAIIRIE 55344 100 PRAIRI",
+				"documentNumber": "177613419180",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [
+					{
+						"code": "0",
+						"definition": "UNDEFINED"
+					}
+				],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2022-07-16",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": "FIRST WESTERN BANK & TRUST MN EDEN PRAIIRIE 55344 100 PRAIRI",
+				"documentNumber": "177611187251",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [
+					{
+						"code": "0",
+						"definition": "UNDEFINED"
+					}
+				],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2021-11-07",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": "KONICA MINOLTA BUSINESS SOLUTI NJ RAMSEY 07446 100 WILLIAMS",
+				"documentNumber": "201702070060481",
+				"filingLocation": "SEC OF STATE NY",
+				"collateralCodes": [
+					{
+						"code": "4",
+						"definition": "EQUIP"
+					},
+					{
+						"code": "5",
+						"definition": "FURN & FIX"
+					},
+					{
+						"code": "9",
+						"definition": "AFTER ACQUIRED PROP"
+					},
+					{
+						"code": "0",
+						"definition": "UNDEFINED"
+					}
+				],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2021-09-28",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": "NATIONAL CITY MORTGAGE OH MIAMISBURG 45324 3232 NEWMARK DRIV",
+				"documentNumber": "201612300004362",
+				"filingLocation": "SEC OF STATE MI",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2014-03-19",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": null,
+				"documentNumber": "097200034853",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2016-10-23",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1272982280",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [
+					{
+						"code": "0",
+						"definition": "UNDEFINED"
+					}
+				],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2016-01-08",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1172658894",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2016-01-08",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": "THE MONEY MART, INC. AL THORSBY 35171 PO BOX 219",
+				"documentNumber": "1172658909",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2015-07-27",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072497719",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2015-04-28",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072401355",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2015-04-28",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072401368",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2014-10-07",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072191061",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2019-02-14",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "CONTINUED",
+				"securedParty": "THE MONEY MART, INC. AL THORSBY 35171 PO BOX 219",
+				"documentNumber": "1474119239",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-03-19",
+					"filingState": "CA",
+					"legalAction": "CONTINUED",
+					"documentNumber": "0972000348"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2014-02-18",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "FILED",
+				"securedParty": null,
+				"documentNumber": "097196823277",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": null,
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2015-03-09",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072344486",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [
+					{
+						"code": "9",
+						"definition": "AFTER ACQUIRED PROP"
+					}
+				],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-02-18",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0971968232"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2015-03-09",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": null,
+				"documentNumber": "1072344511",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [
+					{
+						"code": "0",
+						"definition": "UNDEFINED"
+					}
+				],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-02-18",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0971968232"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2014-10-07",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "AMENDED",
+				"securedParty": "FIRST WESTERN BANK & TRUST MN EDEN PRAIRE 55344 100 PRAIRIE",
+				"documentNumber": "1072191051",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-02-18",
+					"filingState": "CA",
+					"legalAction": "AMENDED",
+					"documentNumber": "0971968232"
+				},
+				"customerDisputeIndicator": false
+			},
+			{
+				"owner": null,
+				"assignee": null,
+				"dateFiled": "2019-02-14",
+				"legalType": "UNIFORM COMMERCIAL CODE (UCC) FINANCE STATEMENT",
+				"legalAction": "CONTINUED",
+				"securedParty": "FIRST WESTERN BANK & TRUST MN EDEN PRAIRE 55344 100 PRAIRIE",
+				"documentNumber": "1474119238",
+				"filingLocation": "SEC OF STATE CA",
+				"collateralCodes": [],
+				"originalUCCFilingsInfo": {
+					"dateFiled": "2014-02-18",
+					"filingState": "CA",
+					"legalAction": "CONTINUED",
+					"documentNumber": "0971968232"
+				},
+				"customerDisputeIndicator": false
+			}
+		],
+		"collectionsDetail": [],
+		"consumerStatement": [],
+		"economicDiversity": {
+			"sba8aIndicator": false,
+			"hubZoneIndicator": false,
+			"womenOwnedIndicator": false,
+			"sbaCertifiedIndicator": false,
+			"veteranOwnedIndicator": false,
+			"disadvantagedIndicator": false,
+			"minorityOwnedIndicator": false,
+			"disabledVeteranOwnedIndicator": false,
+			"historicalBlackCollegeAndUniversitiesIndicator": false
+		},
+		"uccFilingsSummary": {
+			"uccFilingsCount": 18,
+			"uccFilingsTrends": [
+				{
+					"date": "2022-10-01",
+					"count": 0,
+					"derogatoryCount": 0,
+					"continuationsCount": 0,
+					"amendedAndAssignedCount": 0,
+					"releasesAndTerminationsCount": 0
+				},
+				{
+					"date": "2022-04-01",
+					"count": 2,
+					"derogatoryCount": 0,
+					"continuationsCount": 0,
+					"amendedAndAssignedCount": 0,
+					"releasesAndTerminationsCount": 0
+				},
+				{
+					"date": "2021-10-01",
+					"count": 1,
+					"derogatoryCount": 1,
+					"continuationsCount": 0,
+					"amendedAndAssignedCount": 0,
+					"releasesAndTerminationsCount": 0
+				},
+				{
+					"date": "2021-04-01",
+					"count": 1,
+					"derogatoryCount": 0,
+					"continuationsCount": 0,
+					"amendedAndAssignedCount": 0,
+					"releasesAndTerminationsCount": 0
+				},
+				{
+					"date": "2020-10-01",
+					"count": 0,
+					"derogatoryCount": 0,
+					"continuationsCount": 0,
+					"amendedAndAssignedCount": 0,
+					"releasesAndTerminationsCount": 0
+				},
+				{
+					"date": "2020-10-01",
+					"count": 2,
+					"derogatoryCount": 0,
+					"continuationsCount": 2,
+					"amendedAndAssignedCount": 10,
+					"releasesAndTerminationsCount": 0
+				}
+			]
+		},
+		"governmentActivity": {
+			"activeDate": null,
+			"terminationDate": null
+		},
+		"leasingInformation": [],
+		"executiveInformation": [
+			{
+				"title": "PRESIDENT",
+				"lastName": "ROBERT",
+				"firstName": "DONALD",
+				"middleName": "A"
+			},
+			{
+				"title": "PRESIDENT",
+				"lastName": "BOUNDY",
+				"firstName": "CRAIG",
+				"middleName": null
+			},
+			{
+				"title": "PRESIDENT",
+				"lastName": "WHEELER",
+				"firstName": "SCOTT",
+				"middleName": null
+			}
+		],
+		"experianBizUpdatedAt": "2023-04-24T19:51:07.850Z",
+		"monthlyPaymentTrends": [
+			{
+				"dbt": 1,
+				"date": "2023-04-01",
+				"dbt91Plus": 1,
+				"currentPercentage": 99,
+				"totalAccountBalance": {
+					"amount": 310400
+				}
+			},
+			{
+				"dbt": 11,
+				"date": "2022-04-01",
+				"dbt60": 23,
+				"dbt91Plus": 1,
+				"currentPercentage": 76,
+				"totalAccountBalance": {
+					"amount": 407300
+				}
+			},
+			{
+				"dbt": 4,
+				"date": "2022-03-01",
+				"dbt30": 24,
+				"currentPercentage": 76,
+				"totalAccountBalance": {
+					"amount": 404100
+				}
+			},
+			{
+				"dbt": 0,
+				"date": "2022-02-01",
+				"currentPercentage": 100,
+				"totalAccountBalance": {
+					"amount": 405500
+				}
+			},
+			{
+				"dbt": 1,
+				"date": "2022-01-01",
+				"dbt30": 1,
+				"dbt60": 2,
+				"currentPercentage": 97,
+				"totalAccountBalance": {
+					"amount": 382600
+				}
+			},
+			{
+				"dbt": 0,
+				"date": "2021-12-01",
+				"dbt30": 1,
+				"currentPercentage": 99,
+				"totalAccountBalance": {
+					"amount": 817500
+				}
+			},
+			{
+				"dbt": 1,
+				"date": "2021-11-01",
+				"dbt91Plus": 1,
+				"currentPercentage": 99,
+				"totalAccountBalance": {
+					"amount": 340000
+				}
+			}
+		],
+		"corporateRegistration": {
+			"agentName": "THE CORPORATION TRUST, INCORPORATED",
+			"profitFlag": "Profit",
+			"statusFlag": {
+				"code": "A",
+				"definition": "Active"
+			},
+			"agentAddress": {
+				"zip": null,
+				"city": "LUTHERVILLE TIMONIUM",
+				"state": "MD",
+				"street": "2405 YORK ROAD"
+			},
+			"businessType": "Incorporated",
+			"federalTaxID": null,
+			"charterNumber": "F05670328",
+			"stateOfOrigin": "DE",
+			"incorporatedDate": "2004-11-16",
+			"recentFilingDate": "2022-03-19",
+			"existenceTermDate": null,
+			"statusDescription": null,
+			"existenceTermYears": null,
+			"originalFilingDate": null,
+			"domesticForeignIndicator": "F"
+		},
+		"expandedCreditSummary": {
+			"currentDbt": 1,
+			"uccFilings": 6,
+			"legalBalance": 151102,
+			"taxLienCount": 2,
+			"judgmentCount": null,
+			"oldestUccDate": "2014-02-18",
+			"bankruptcyCount": null,
+			"collectionCount": null,
+			"ofacMatchWarning": {
+				"code": "N",
+				"definition": "This business did not match to OFAC"
+			},
+			"singleHighCredit": 802200,
+			"taxLienIndicator": true,
+			"allTradelineCount": 11,
+			"collectionBalance": null,
+			"highestDbt6Months": 11,
+			"judgmentIndicator": true,
+			"lowBalance6Months": 340000,
+			"monthlyAverageDbt": 2,
+			"mostRecentUccDate": "2022-07-28",
+			"oldestTaxLienDate": "2021-12-10",
+			"highBalance6Months": 817500,
+			"oldestJudgmentDate": null,
+			"uccDerogatoryCount": 1,
+			"allTradelineBalance": 1643100,
+			"bankruptcyIndicator": false,
+			"highestDbt5Quarters": 12,
+			"openCollectionCount": null,
+			"activeTradelineCount": 6,
+			"oldestBankruptcyDate": null,
+			"oldestCollectionDate": null,
+			"tradeCollectionCount": 11,
+			"currentAccountBalance": 310400,
+			"currentTradelineCount": 6,
+			"mostRecentTaxLienDate": "2022-12-05",
+			"openCollectionBalance": null,
+			"mostRecentJudgmentDate": null,
+			"tradeCollectionBalance": 16431,
+			"averageBalance5Quarters": 461040,
+			"mostRecentBankruptcyDate": null,
+			"mostRecentCollectionDate": null,
+			"victimStatementIndicator": false,
+			"unsummarizedTradelineCount": null,
+			"collectionCountPast24Months": null,
+			"commercialFraudRiskIndicatorCount": 0
+		},
+		"industryPaymentTrends": {
+			"sic": "732",
+			"trends": [
+				{
+					"dbt": 5,
+					"date": "2022-04-01",
+					"currentPercentage": 85,
+					"totalAccountBalance": {
+						"amount": 12830
+					}
+				},
+				{
+					"dbt": 5,
+					"date": "2022-03-01",
+					"currentPercentage": 86,
+					"totalAccountBalance": {
+						"amount": 12066
+					}
+				},
+				{
+					"dbt": 5,
+					"date": "2022-02-01",
+					"currentPercentage": 88,
+					"totalAccountBalance": {
+						"amount": 11809
+					}
+				},
+				{
+					"dbt": 6,
+					"date": "2022-01-01",
+					"currentPercentage": 84,
+					"totalAccountBalance": {
+						"amount": 11099
+					}
+				},
+				{
+					"dbt": 6,
+					"date": "2021-12-01",
+					"currentPercentage": 85,
+					"totalAccountBalance": {
+						"amount": 10849
+					}
+				},
+				{
+					"dbt": 6,
+					"date": "2021-11-01",
+					"currentPercentage": 84,
+					"totalAccountBalance": {
+						"amount": 10396
+					}
+				}
+			]
+		},
+		"contractSpendingDetail": [],
+		"quarterlyPaymentTrends": [
+			{
+				"dbt": 6,
+				"date": "2018-01-01",
+				"dbt30": 9,
+				"dbt60": 9,
+				"dbt90": 0,
+				"dbt91Plus": 1,
+				"currentPercentage": 81,
+				"totalAccountBalance": {
+					"amount": 373900
+				}
+			},
+			{
+				"dbt": 1,
+				"date": "2017-10-01",
+				"dbt30": 1,
+				"dbt60": 1,
+				"dbt90": 0,
+				"dbt91Plus": 0,
+				"currentPercentage": 98,
+				"totalAccountBalance": {
+					"amount": 535100
+				}
+			},
+			{
+				"dbt": 2,
+				"date": "2017-07-01",
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 1,
+				"dbt91Plus": 1,
+				"currentPercentage": 98,
+				"totalAccountBalance": {
+					"amount": 338400
+				}
+			},
+			{
+				"dbt": 12,
+				"date": "2017-04-01",
+				"dbt30": 1,
+				"dbt60": 0,
+				"dbt90": 0,
+				"dbt91Plus": 11,
+				"currentPercentage": 88,
+				"totalAccountBalance": {
+					"amount": 609000
+				}
+			},
+			{
+				"dbt": 11,
+				"date": "2017-01-01",
+				"dbt30": 8,
+				"dbt60": 8,
+				"dbt90": 8,
+				"dbt91Plus": 0,
+				"currentPercentage": 76,
+				"totalAccountBalance": {
+					"amount": 448800
+				}
+			}
+		],
+		"contractSpendingSummary": null,
+		"tradePaymentExperiences": [
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "OTHER",
+				"comments": null,
+				"dbt91Plus": 0,
+				"dateReported": "2022-12-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 1100,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "AIR TRANS",
+				"dateLastActivity": "2022-12-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 3800,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 100,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 16,
+				"dbt60": 16,
+				"dbt90": 15,
+				"terms": "VARIED",
+				"comments": null,
+				"dbt91Plus": 31,
+				"dateReported": "2022-12-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 7600,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "COMMUNICTN",
+				"dateLastActivity": null,
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 158300,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 22,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "NET 30",
+				"comments": null,
+				"dbt91Plus": 0,
+				"dateReported": "2022-09-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "NEWSPAPERS",
+				"dateLastActivity": "2022-05-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 19900,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "NET 30",
+				"comments": "CUST 18 YR",
+				"dbt91Plus": 0,
+				"dateReported": "2023-01-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "PACKAGING",
+				"dateLastActivity": "2022-09-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "NET 45",
+				"comments": null,
+				"dbt91Plus": 0,
+				"dateReported": "2022-09-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 301700,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "PRNTG&PUBL",
+				"dateLastActivity": "2022-08-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 802200,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 100,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "VARIED",
+				"comments": null,
+				"dbt91Plus": 0,
+				"dateReported": "2022-11-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "PRNTG&PUBL",
+				"dateLastActivity": null,
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 2000,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			}
+		],
+		"proprietorNameAndAddress": [],
+		"commercialBankInformation": [],
+		"additionalPaymentExperiences": [
+			{
+				"dbt30": 10,
+				"dbt60": 10,
+				"dbt90": 9,
+				"terms": "NET 30",
+				"comments": "90+DYS SLO",
+				"dbt91Plus": 71,
+				"dateReported": "2020-09-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 200,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "ADVERTISNG",
+				"dateLastActivity": null,
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 800,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "0",
+				"comments": "CUST  2 YR",
+				"dbt91Plus": 0,
+				"dateReported": "2020-09-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "DP SERVCS",
+				"dateLastActivity": "2019-10-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "CONTRCT",
+				"comments": null,
+				"dbt91Plus": 0,
+				"dateReported": "2020-01-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "LEASING",
+				"dateLastActivity": null,
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 0,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "CONTRCT",
+				"comments": "CUST  5 YR",
+				"dbt91Plus": 0,
+				"dateReported": "2023-01-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 1332200,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "LEASING",
+				"dateLastActivity": null,
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 3962800,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 100,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			},
+			{
+				"dbt30": 0,
+				"dbt60": 0,
+				"dbt90": 0,
+				"terms": "REVOLVE",
+				"comments": null,
+				"dbt91Plus": 100,
+				"dateReported": "2020-01-01",
+				"tradelineFlag": {
+					"code": null,
+					"definition": " "
+				},
+				"accountBalance": {
+					"amount": 300,
+					"modifier": "Not applicable"
+				},
+				"businessCategory": "OFFC EQUIP",
+				"dateLastActivity": "2018-11-01",
+				"paymentIndicator": {
+					"code": " ",
+					"definition": "No Indicator"
+				},
+				"recentHighCredit": {
+					"amount": 300,
+					"modifier": "Not applicable"
+				},
+				"currentPercentage": 0,
+				"newlyReportedIndicator": {
+					"code": " ",
+					"definition": "Not Available"
+				}
+			}
+		],
+		"commercialFraudShieldSummary": {
+			"ofacMatchWarning": {
+				"code": 1,
+				"definition": "No Match Found"
+			},
+			"activeBusinessIndicator": true,
+			"matchingBusinessIndicator": "Primary Business",
+			"businessRiskTriggersIndicator": false,
+			"businessRiskTriggersStatement": [],
+			"businessVictimStatementIndicator": false,
+			"nameAddressVerificationIndicator": true
+		},
+		"corporateFinancialInformation": {
+			"currentDate": null,
+			"balanceSheets": [],
+			"fiscalYearEndDate": null,
+			"operatingStatements": [],
+			"criticalDataAndFinancialRatios": []
+		},
+		"commercialGovernmentEntityCode": null
+	},
+	"googlePlaceJson": {
+		"name": "Experian",
+		"rating": 2.5,
+		"reviews": [
+			{
+				"text": "truly a nightmare",
+				"time": 1681765087,
+				"rating": 1,
+				"language": "en",
+				"author_url": "https://www.google.com/maps/contrib/116907993123121180905/reviews",
+				"translated": false,
+				"author_name": "gerald",
+				"original_language": "en",
+				"profile_photo_url": "https://lh3.googleusercontent.com/a/AGNmyxZXxXd7XS6wHkrTqViGiVMct3Xfyu7l49TgXQjf=s128-c0x00000000-cc-rp-mo-ba3",
+				"relative_time_description": "in the last week"
+			},
+			{
+				"text": "Unbelievably scummy company. DO NOT give them your card info. They will not allow you to remove it and will continue to charge it even if you downgrade the membership(which I never agreed to in the first place!)\n\nYou can't call them either, their phone router is setup to hang up on you if you ask for an agent.\n\nLowest of the low",
+				"time": 1681397592,
+				"rating": 1,
+				"language": "en",
+				"author_url": "https://www.google.com/maps/contrib/106092139463401336652/reviews",
+				"translated": false,
+				"author_name": "Stetson Oliver",
+				"original_language": "en",
+				"profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5StqnBaSlBxCz_HzdmlfUBqZ4eLc6nprdCBZMTD=s128-c0x00000000-cc-rp-mo",
+				"relative_time_description": "a week ago"
+			},
+			{
+				"text": "",
+				"time": 1680545134,
+				"rating": 1,
+				"author_url": "https://www.google.com/maps/contrib/102913184844887734951/reviews",
+				"translated": false,
+				"author_name": "Alyssa May",
+				"profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5S9X5ZVaGPYof68K_7LImFfXA41yTJfKXplYZaIAA=s128-c0x00000000-cc-rp-mo",
+				"relative_time_description": "3 weeks ago"
+			},
+			{
+				"text": "",
+				"time": 1678541547,
+				"rating": 1,
+				"author_url": "https://www.google.com/maps/contrib/105901093345384249906/reviews",
+				"translated": false,
+				"author_name": "Forrest Wilson",
+				"profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5QiGyL8oe-55X042kyWIF7vGvIjB-ybBBNMYfjutw=s128-c0x00000000-cc-rp-mo",
+				"relative_time_description": "a month ago"
+			},
+			{
+				"text": "Can't get a live person on the line for assistance,  won't verify my information but will allow ANYBODY to put ANYTHING on my credit report",
+				"time": 1678386608,
+				"rating": 1,
+				"language": "en",
+				"author_url": "https://www.google.com/maps/contrib/116719567664865993536/reviews",
+				"translated": false,
+				"author_name": "Henry Ephriam",
+				"original_language": "en",
+				"profile_photo_url": "https://lh3.googleusercontent.com/a/AGNmyxZxpqBPwl7WXr8s2IAKh3Yx92hvLbngB2ZSCBSg=s128-c0x00000000-cc-rp-mo",
+				"relative_time_description": "a month ago"
+			}
+		],
+		"website": "http://www.experian.com/",
+		"place_id": "ChIJeWB_8d7e3IARQy60pHa7kSQ",
+		"business_status": "OPERATIONAL",
+		"formatted_address": "475 Anton Blvd, Costa Mesa, CA 92626, USA",
+		"address_components": [
+			{
+				"types": ["street_number"],
+				"long_name": "475",
+				"short_name": "475"
+			},
+			{
+				"types": ["route"],
+				"long_name": "Anton Boulevard",
+				"short_name": "Anton Blvd"
+			},
+			{
+				"types": ["neighborhood", "political"],
+				"long_name": "South Coast Metro",
+				"short_name": "South Coast Metro"
+			},
+			{
+				"types": ["locality", "political"],
+				"long_name": "Costa Mesa",
+				"short_name": "Costa Mesa"
+			},
+			{
+				"types": ["administrative_area_level_2", "political"],
+				"long_name": "Orange County",
+				"short_name": "Orange County"
+			},
+			{
+				"types": ["administrative_area_level_1", "political"],
+				"long_name": "California",
+				"short_name": "CA"
+			},
+			{
+				"types": ["country", "political"],
+				"long_name": "United States",
+				"short_name": "US"
+			},
+			{
+				"types": ["postal_code"],
+				"long_name": "92626",
+				"short_name": "92626"
+			},
+			{
+				"types": ["postal_code_suffix"],
+				"long_name": "7037",
+				"short_name": "7037"
+			}
+		],
+		"user_ratings_total": 197,
+		"googlePlaceUpdatedAt": "2023-04-24T19:51:01.788Z"
+	}
+}
